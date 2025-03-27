@@ -1,7 +1,8 @@
 # SQL-Project 
 **Hospital End to End Project
+
 drop table if exists hospitaL_data;
-create table hospitaL_data(Hospital_Name varchar(100),
+Create table hospitaL_data(Hospital_Name varchar(100),
                            Location varchar(100),
 						   Department varchar(100),
 						   Doctors_Count int,
