@@ -12,6 +12,7 @@ Create table hospitaL_data(Hospital_Name varchar(100),
 						   Medical_Expenses numeric (10,0)
 );
 
+
 select * from hospital_data;
 
 -- Import Data into hospital_data Table
